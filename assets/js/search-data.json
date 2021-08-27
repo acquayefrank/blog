@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "I’m a polyglot software developer who happens to be fluent in python. I plan on writing tech related blog posts here. PS: I enjoy solving complex problems that provide value for people. .",
+          "content": "I’m a polyglot software developer who happens to be fluent in python.I also do a bit of Go and C. I will be starting my PhD in machine reasoning @CS_HSE. PS: I enjoy solving complex problems that provide value for people. .",
           "url": "https://acquayefrank.github.io/blog/about/",
           "relUrl": "/about/",
           "date": ""
